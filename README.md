@@ -43,7 +43,7 @@ Yazılım geliştirmeye tutkuyla bağlı bir geliştiriciyim. Hem web teknolojil
 ### ♿ [Engelsiz Türkiye](https://github.com/OmerCanInan/engelsiz-turkiye)
 > Hackathon için yapılmış engellilere yönelik uygulama.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ---
 
