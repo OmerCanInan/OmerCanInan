@@ -27,6 +27,7 @@ Yazılım geliştirmeye tutkuyla bağlı bir geliştiriciyim. Hem web teknolojil
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CS](https://img.shields.io/badge/C%23?logoColor=rgb(133%2C%200%2C%20150)
 
 ### Araçlar & Platformlar
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
