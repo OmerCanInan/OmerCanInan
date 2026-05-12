@@ -27,21 +27,23 @@ Yazılım geliştirmeye tutkuyla bağlı bir geliştiriciyim. Hem web teknolojil
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![CS](https://img.shields.io/badge/C%23?logoColor=rgb(133%2C%200%2C%20150)
+![C#](https://shields.io)
+
 
 ### Araçlar & Platformlar
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
+Unity
+Visual Studio
+Android Studio
 ---
 
 ## 📌 Öne Çıkan Projeler
 
-### 🎮 [Godot Project](https://github.com/OmerCanInan/Godot_Project)
-> GDScript ile geliştirilmiş bir oyun projesi.
+### 🎮 [Engelsiz Türkiye](https://github.com/OmerCanInan/engelsiz-turkiye)
+> Hackathon için yapılmış engellilere yönelik uygulama.
 
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white)
 ⭐ 1 Star
