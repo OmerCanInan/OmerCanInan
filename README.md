@@ -55,7 +55,11 @@ Yazılım geliştirmeye tutkuyla bağlı bir geliştiriciyim. Hem web teknolojil
 ⭐ 3 Stars
 
 ---
+## 📅 Katıldığım Etkinlikler
+> KUDAKAF'26
+> Developers Club Hackathon 2026
 
+---
 ## 📊 GitHub İstatistikleri
 
 <div align="center">
