@@ -1,16 +1,91 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**OmerCanInan/OmerCanInan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Merhaba, Ben Ömer Can İnan!
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Game+Developer+(Godot);JavaScript+%7C+GDScript;Always+Learning+New+Things!" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🚀 Hakkımda
+
+Yazılım geliştirmeye tutkuyla bağlı bir geliştiriciyim. Hem web teknolojileri hem de oyun geliştirme alanında projeler üretiyorum. Yeni teknolojiler öğrenmekten ve özgün ürünler ortaya çıkarmaktan keyif alıyorum.
+
+- 🎮 **Godot Engine** ile oyun geliştiriyorum
+- 🌐 **JavaScript** ile web uygulamaları üretiyorum
+- 📰 RSS teknolojileriyle haber toplayıcılar inşa ediyorum
+- 🌱 Her gün bir şeyler öğrenmeye devam ediyorum
+- 📍 Türkiye
+
+---
+
+## 🛠️ Kullandığım Teknolojiler
+
+### Diller & Frameworkler
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Araçlar & Platformlar
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📌 Öne Çıkan Projeler
+
+### 🎮 [Godot Project](https://github.com/OmerCanInan/Godot_Project)
+> GDScript ile geliştirilmiş bir oyun projesi.
+
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white)
+⭐ 1 Star
+
+---
+
+### 📰 [Gündemim](https://github.com/OmerCanInan/Gundemim)
+> Haber sitelerinden RSS kaynakları toplayıp tek bir arayüzde sunan uygulama.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+⭐ 3 Stars
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=OmerCanInan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerCanInan&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmerCanInan&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📬 İletişim
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-OmerCanInan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmerCanInan)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Kod yazmak, düşünceleri evrensel bir dile çevirmektir."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=OmerCanInan&color=58A6FF&style=flat-square)
+
+</div>
