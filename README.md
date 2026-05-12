@@ -12,9 +12,8 @@
 
 Yazılım geliştirmeye tutkuyla bağlı bir geliştiriciyim. Hem web teknolojileri hem de oyun geliştirme alanında projeler üretiyorum. Yeni teknolojiler öğrenmekten ve özgün ürünler ortaya çıkarmaktan keyif alıyorum.
 
-- 🎮 **Godot Engine** ile oyun geliştiriyorum
+- 🎮 **Godot Engine** ve **Unity Engine** ile oyun geliştiriyorum
 - 🌐 **JavaScript** ile web uygulamaları üretiyorum
-- 📰 RSS teknolojileriyle haber toplayıcılar inşa ediyorum
 - 🌱 Her gün bir şeyler öğrenmeye devam ediyorum
 - 📍 Türkiye
 
@@ -27,7 +26,7 @@ Yazılım geliştirmeye tutkuyla bağlı bir geliştiriciyim. Hem web teknolojil
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://shields.io)
+
 
 
 ### Araçlar & Platformlar
