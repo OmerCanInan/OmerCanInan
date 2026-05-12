@@ -52,7 +52,6 @@ Yazılım geliştirmeye tutkuyla bağlı bir geliştiriciyim. Hem web teknolojil
 > Haber sitelerinden RSS kaynakları toplayıp tek bir arayüzde sunan uygulama.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-⭐ 3 Stars
 
 ---
 ## 📅 Katıldığım Etkinlikler
