@@ -58,6 +58,10 @@ Yazılım geliştirmeye tutkuyla bağlı bir geliştiriciyim. Hem web teknolojil
 >KUDAKAF'26 </br>
 >Developers Club Hackathon 2026
 
+## 🧑🏻‍🏫 Aldığım Eğitimler
+> Yapay Zeka & Dijital Dönüşüm @Atauni </br>
+> Unity ile Oyun Geliştirme @Bilim Erzurum
+
 ---
 ## 📊 GitHub İstatistikleri
 
