@@ -56,7 +56,8 @@ Yazılım geliştirmeye tutkuyla bağlı bir geliştiriciyim. Hem web teknolojil
 ---
 ## 📅 Katıldığım Etkinlikler
 >KUDAKAF'26 </br>
->Developers Club Hackathon 2026
+>Developers Club Hackathon 11.05.2026 </br>
+>Kamuda Dijital Dönüşüm ve Yapay Zeka Hackathon 17.05.2026 </br>
 
 ## 🧑🏻‍🏫 Aldığım Eğitimler
 > Yapay Zeka & Dijital Dönüşüm @Atauni </br>
